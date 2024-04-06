@@ -1,0 +1,6 @@
+.sectionBackground {
+    background-image: url('/public/OIP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+  }
