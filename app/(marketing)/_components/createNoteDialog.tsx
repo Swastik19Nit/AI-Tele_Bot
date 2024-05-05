@@ -4,28 +4,14 @@ import React, { useState } from 'react';
 import { Plus } from 'lucide-react';
 import Modal from '@/app/(marketing)/_components/Modal';
 
-const CreateNoteDialog = () => {
+const CreateNoteDialog = ({setCreate}) => {
   const [showModal, setShowModal] = useState(false);
 
   const toggleModal = () => {
     setShowModal(!showModal);
+    setCreate(prev=>!prev);
   };
 
-  // const onCreateNote = async (noteName: string) => {
-  //   try {
-  //     const res = await fetch("/api/createNote", {
-  //       method: "POST",
-  //       headers: {
-  //         "Content-Type": "application/json",
-  //       },
-  //       body: JSON.stringify({
-  //         noteName
-  //       }),
-  //     })
-  //   } catch (error) {
-  //     console.log("Failed to create note");
-  //   }
-  // }
   return (
     <Dialog>
       <DialogTrigger>

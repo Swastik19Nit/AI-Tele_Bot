@@ -36,6 +36,7 @@ const Dashboard = () => {
     const event = {
         toggleTrash: toggleTrash,
         toggleArchive: toggleArchive,
+        setCreate: setCreate,
     }
     const search= async(title:string) => {
         setTitle(title);
@@ -55,12 +56,12 @@ const Dashboard = () => {
                 setNotes(notes);
             });
         }    
-    }, [sessionStatus,trash, create, archive,title]);
+    }, [sessionStatus,trash, create, session,archive,title]);
 
     return (
         <div className='w-full flex flex-col gap-y-8  bg-[#F8F6E9] items-center p-5'>
             <SearchBar searchTitle={searchTitle} />
-            <CreateNoteDialog />
+            <CreateNoteDialog setCreate={setCreate}/>
             <Group notes={notes} event={event} />
         </div>
     );

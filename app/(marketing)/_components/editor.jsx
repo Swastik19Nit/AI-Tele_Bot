@@ -29,13 +29,6 @@ const NoteEditor = () => {
           const data = {
             time: new Date().getTime(),
             blocks: blocks,
-          //     {
-          //       type: 'paragraph',
-          //       data: {
-          //         text: initialBody || 'Start writing your note...',
-          //       },
-          //     },
-          //   ],
           };
           editor.render(data);
         })

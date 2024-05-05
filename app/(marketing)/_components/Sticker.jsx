@@ -8,7 +8,7 @@ import { HiOutlineArrowUturnLeft } from "react-icons/hi2";
 import Modale from './Modale';
 
 function Sticker({note ,event,color}) {
-  const {toggleArchive,toggleTrash,toggleDel}=event;
+  const {toggleArchive,toggleTrash,toggleDel,setCreate}=event;
   const{title, trashed, archived,imageUrl}=note;
   const noteId=note._id;
   const date=note.updated_date;
