@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-##AI Tele-Note: Streamlined Note-taking with Telegram Integration and AI Thumbnail Generation
+## AI Tele-Note: Streamlined Note-taking with Telegram Integration and AI Thumbnail Generation
 
 In today's fast-paced digital world, where information flows incessantly and our reliance on technology grows by the day, the necessity for efficient note-taking and management solutions has never been more pronounced. Many of us resort to sending messages to ourselves on messaging platforms like WhatsApp as a makeshift method for jotting down ideas, reminders, or crucial information. However, this approach often leads to clutter and disorganization, making it challenging to retrieve and manage notes effectively.
 
@@ -54,3 +54,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+![Screenshot 2024-05-05 194258](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/c0b23958-a5e0-442c-af57-a6ce10849f1d)
+
+![Screenshot 2024-05-05 194339](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/2aa78caf-11d3-4846-968c-6813de042ec7)
+
+![Screenshot 2024-05-05 194357](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/4083fad0-fc28-48a0-b385-2f5ff5a738be)
+
+![Screenshot 2024-05-05 194436](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/031f3ea5-f803-4d25-95f7-304d96cd400a)
+
+![Screenshot 2024-05-05 194449](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/3bcbb3b6-35e9-4fdc-928e-89a79c0a1004)
+
+![Screenshot 2024-05-05 194506](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/cb5db432-c495-4467-b4ef-01e96162a827)
+
+![Screenshot 2024-05-05 194518](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/123c872d-687f-46a1-9d24-87a725e3ff6c)
+
+![Screenshot 2024-05-05 194533](https://github.com/Swastik19Nit/AI-Tele_Bot/assets/122457803/70519e3e-e8e8-4f5e-b05d-f795c062ac53)
+
+
+
+
